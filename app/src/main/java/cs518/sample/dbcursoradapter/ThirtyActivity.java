@@ -11,20 +11,20 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.Toast;
 
 /* 
- * Thirty.class
+ * ThirtyActivity.class
  * 
  * This is a very simple Activity 
  * It is used to populate and display the contents of a simple display
  * It uses a DBHelper class for the sqlite database
  * It uses the get30() DBHelper method for a subset of data
- * The onCreate() and onItemClick() are very similar to DatabaseActivity.class
+ * The onCreate() and onItemClick() are very similar to MainActivity.class
  * I copied it for simplicity.
  * 
  * Again: Note this Activity performs queries on the UI thread, this is not a
  * good practice and can lead to ANR, lagging display etc.
  * Soon we will look at ways to avoid long running code on the main UI thread.
  */
-public class Thirty extends Activity  {
+public class ThirtyActivity extends Activity  {
 	private DBHelper dbh;
 
 	private SimpleCursorAdapter sca;

@@ -35,7 +35,7 @@ import android.widget.SimpleCursorAdapter;
  * Soon we will look at ways to avoid long running code on the main UI thread.
  * 
  */
-public class DatabaseActivity extends Activity {
+public class MainActivity extends Activity {
 
 	// My DBHelper class
 	private static DBHelper dbh;
@@ -100,7 +100,7 @@ public class DatabaseActivity extends Activity {
 		refreshView();
 		/* 
 		 * NOTE it would be better to not do the refresh here but do it dependent 
-		 * on the activity result for AddStudent (added or not).  This way the
+		 * on the activity result for AddStudentActivity (added or not).  This way the
 		 * cursor is recreated no matter what happens (data added or not.)
 		 * I leave it for you to try modifying this code to "fix" this.
 		 */
@@ -145,8 +145,8 @@ public class DatabaseActivity extends Activity {
 	@Override
 	/*
 	 * This is an options menu. There are two items programmatically added to
-	 * the menu: add student fires an intent to invoke AddStudent class show 30%
-	 * fires an intent to invoke Thirty class
+	 * the menu: add student fires an intent to invoke AddStudentActivity class show 30%
+	 * fires an intent to invoke ThirtyActivity class
 	 * 
 	 * Since we are just firing intents with our menu items there is no need to
 	 * override onOptionsItemSelected()
@@ -154,8 +154,8 @@ public class DatabaseActivity extends Activity {
 	public boolean onCreateOptionsMenu(Menu menu) {
 		super.onCreateOptionsMenu(menu);
 		// Set up the intents for each button
-		Intent add = new Intent(this, AddStudent.class);
-		Intent thirty = new Intent(this, Thirty.class);
+		Intent add = new Intent(this, AddStudentActivity.class);
+		Intent thirty = new Intent(this, ThirtyActivity.class);
 
 		// add a menu items with the Intents, should use strings.xml for
 		// "Add Student" & "Show 30s"

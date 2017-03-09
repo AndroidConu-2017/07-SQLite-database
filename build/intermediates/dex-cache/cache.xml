@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4718a4bd6aec934e73702baf19868a09ae02a82">
+        <dex dex="/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0b0edcf5680be1ed6578078ba149ba34f9fb3f81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="58b31f0505257b92a2d48a5f7a6e72baeb1c3a59">
+        <dex dex="/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_08fa4d8336e3a7a7a6275ae0c4acf3dc52ba91e1/classes.dex" />
+    </item>
+
+</items>

@@ -31,12 +31,12 @@ ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidMa
 		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:13:9-41
 	android:icon
 		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:12:9-45
-activity#cs518.sample.dbcursoradapter.DatabaseActivity
+activity#cs518.sample.dbcursoradapter.MainActivity
 ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:14:9-22:20
 	android:label
 		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:16:13-50
 	android:name
-		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:15:13-73
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:15:13-69
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
@@ -47,11 +47,11 @@ category#android.intent.category.LAUNCHER
 ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
 		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:20:27-74
-activity#cs518.sample.dbcursoradapter.AddStudent
+activity#cs518.sample.dbcursoradapter.AddStudentActivity
 ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:23:9-24:20
 	android:name
-		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:23:19-44
-activity#cs518.sample.dbcursoradapter.Thirty
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:23:19-53
+activity#cs518.sample.dbcursoradapter.ThirtyActivity
 ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:25:9-26:20
 	android:name
-		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:25:19-40
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:25:19-49

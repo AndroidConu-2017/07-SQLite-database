@@ -9,13 +9,13 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 /* 
- * AddStudent.class
+ * AddStudentActivity.class
  * 
  * This Activity is a UI used simply to add records to the db
  *
  * It uses a DBHelper class for the sqlite database
  */
-public class AddStudent extends Activity implements OnClickListener {
+public class AddStudentActivity extends Activity implements OnClickListener {
 	
     public void onCreate(Bundle savedInstanceState) {
     	super.onCreate(savedInstanceState);

@@ -12,7 +12,7 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
-            android:name="cs518.sample.dbcursoradapter.DatabaseActivity"
+            android:name="cs518.sample.dbcursoradapter.MainActivity"
             android:label="DB Cursor Adapter App" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,9 +20,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="cs518.sample.dbcursoradapter.AddStudent" >
+        <activity android:name="cs518.sample.dbcursoradapter.AddStudentActivity" >
         </activity>
-        <activity android:name="cs518.sample.dbcursoradapter.Thirty" >
+        <activity android:name="cs518.sample.dbcursoradapter.ThirtyActivity" >
         </activity>
     </application>
 

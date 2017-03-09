@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Thu Mar 09 13:05:25 EST 2017
+2.base=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_30.xml
+2.set=ANDROID_RESOURCE
+4.base=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_/res/layout/id_mark_row.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_add.xml
+5.base=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_/res/layout/grade_row.xml
+6.set=ANDROID_RESOURCE
+0.base=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ic_launcher.png
+0.set=ANDROID_RESOURCE

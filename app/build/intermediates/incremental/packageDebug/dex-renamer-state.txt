@@ -1,0 +1,7 @@
+#Thu Mar 09 13:05:29 EST 2017
+base.0=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_08fa4d8336e3a7a7a6275ae0c4acf3dc52ba91e1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0b0edcf5680be1ed6578078ba149ba34f9fb3f81/classes.dex
+base.1=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0b0edcf5680be1ed6578078ba149ba34f9fb3f81
+file.0=/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_08fa4d8336e3a7a7a6275ae0c4acf3dc52ba91e1/classes.dex
