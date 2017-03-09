@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:11:5-27:19
+	android:label
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:12:9-45
+activity#cs518.sample.dbcursoradapter.DatabaseActivity
+ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:label
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:16:13-50
+	android:name
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:15:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:20:27-74
+activity#cs518.sample.dbcursoradapter.AddStudent
+ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:23:19-44
+activity#cs518.sample.dbcursoradapter.Thirty
+ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from /home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/AndroidManifest.xml:25:19-40

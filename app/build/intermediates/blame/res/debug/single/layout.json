@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/merged/debug/layout/activity_add.xml",
+        "source": "/home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/res/layout/activity_add.xml"
+    },
+    {
+        "merged": "/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/merged/debug/layout/id_mark_row.xml",
+        "source": "/home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/res/layout/id_mark_row.xml"
+    },
+    {
+        "merged": "/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/merged/debug/layout/grade_row.xml",
+        "source": "/home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/res/layout/grade_row.xml"
+    },
+    {
+        "merged": "/home/tricia/conu/week10-sqlite-cursoradapter1/app/build/intermediates/res/merged/debug/layout/activity_30.xml",
+        "source": "/home/tricia/conu/week10-sqlite-cursoradapter1/app/src/main/res/layout/activity_30.xml"
+    }
+]

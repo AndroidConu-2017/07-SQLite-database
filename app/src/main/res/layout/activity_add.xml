@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:id="@+id/mainLayout" >
+
+    <TextView 
+        android:text="Name"
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    
+    <EditText 
+        android:id="@+id/et_name"
+        android:minWidth="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/et_lastName"
+        android:layout_toRightOf="@+id/tv_name"
+        />
+    
+    <TextView 
+        android:text="Last Name"
+        android:id="@+id/tv_lastName"
+        android:layout_below="@+id/et_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    
+    <EditText 
+        android:id="@+id/et_lastName"
+        android:minWidth="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/tv_lastName"
+        android:layout_below="@+id/et_name"
+        />
+    
+    <TextView 
+        android:text="Class"
+        android:id="@+id/tv_class"
+        android:layout_below="@+id/et_lastName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    
+    <EditText 
+        android:id="@+id/et_class"
+        android:minWidth="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/et_lastName"
+        android:layout_toRightOf="@+id/tv_class"
+        android:layout_below="@+id/et_lastName"
+        />
+    
+        <TextView 
+        android:text="Grade"
+        android:id="@+id/tv_grade"
+        android:layout_below="@+id/et_class"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    
+    <EditText 
+        android:id="@+id/et_grade"
+        android:layout_width="wrap_content"
+        android:minWidth="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/et_lastName"
+        android:layout_toRightOf="@+id/tv_grade"
+        android:layout_below="@+id/et_class"
+        />
+    
+    <Button
+        android:id="@+id/btn_submit"
+        android:text="Submit"
+        android:minWidth="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/et_lastName"
+        android:layout_toRightOf="@+id/tv_grade"
+        android:layout_below="@+id/et_grade"
+        />
+
+</RelativeLayout>
